@@ -52,9 +52,9 @@ Whether it’s a bug or a boss fight, I’m here to level up — one line at a t
 
 ### 📈 Contribution Graph
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=vashishtvini&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
-</p>
+<div align="center">
+
+![Vineet's GitHub Contribution Graph](https://ghchart.rshah.org/7b2ff7/vashishtvini)
 
 ### 💭 Dev Quote
 
