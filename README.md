@@ -45,16 +45,16 @@ Whether it’s a bug or a boss fight, I’m here to level up — one line at a t
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=vashishtvini&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=vashishtvini&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
-</p>
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=vashishtvini&show=reviews,discussions_started,prs_merged,prs_merged_percentage,_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=vashishtvini&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=vashishtvini&layout=compact&theme=radical)
 
 ### 📈 Contribution Graph
 
 <div align="center">
 
 ![Vineet's GitHub Contribution Graph](https://ghchart.rshah.org/7b2ff7/vashishtvini)
+</div>
 
 ### 💭 Dev Quote
 
