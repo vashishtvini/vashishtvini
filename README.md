@@ -45,7 +45,7 @@ Whether it’s a bug or a boss fight, I’m here to level up — one line at a t
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=vashishtvini&show=reviews,discussions_started,prs_merged,prs_merged_percentage,_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=vashishtvini&show=reviews,prs_merged,_icons=true&theme=radical)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=vashishtvini&theme=radical)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=vashishtvini&layout=compact&theme=radical)
 
